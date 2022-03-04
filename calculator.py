@@ -1,4 +1,4 @@
-from tkinter import * #importaciond e libreria
+from tkinter import * #importacion de libreria
 
 root = Tk() # creacion de ventana
 root.title("Simple Calculator")
